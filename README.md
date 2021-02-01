@@ -75,7 +75,7 @@ Click on Sign In
 Our Free Tier AWS Acoount is Ready.
 
 
-# End of Lab
+### End of Lab
 
 
 # IAM User Set-up - Lab
@@ -145,7 +145,7 @@ Click on Next
  **Step 13. Click on Download.csv**
  
 
-# End of Lab
+### End of Lab
 
 # AWS CLI set-up - Lab
  
@@ -189,7 +189,7 @@ $ cat credentials
 $ cat configure
 ```
 
-# End of lab
+### End of lab
 
 # Download & install Git - Lab (MACOS)
 ------------------------------------------------------------
@@ -204,7 +204,7 @@ $ brew install git
 $ brew link --force git
 $ git --version
 ```
-# End of Lab
+### End of Lab
 
 
 # Download & install Git - Lab (Windows)
@@ -253,7 +253,7 @@ Type # “cd test” to move into test directory
 
 ```
 
-# End of lab
+### End of lab
 
 # Download & install Node JS - Lab (MACOS)
 
@@ -284,7 +284,7 @@ Run the following command
 $ node -v
 ```
 
-# End of lab
+### End of lab
 
 
 # Download & install Visual Studio Code - Lab
@@ -304,4 +304,4 @@ $ node -v
 
 **Step 7. Goto Applications and click on VisualStudioCode icon to access it**
 
-# End of lab
+### End of lab
