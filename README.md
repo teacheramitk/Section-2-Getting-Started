@@ -286,7 +286,7 @@ $ node -v
 
 ### End of lab
 
-# Download Node.js for windows
+# Download & Install Node.js - Lab (Windows)
 
 **Step 1. Open google in Internet Browser and type "install Node.js on windows"**
  
