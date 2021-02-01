@@ -286,6 +286,61 @@ $ node -v
 
 ### End of lab
 
+# Download Node.js for windows
+
+**Step 1. Open google in Internet Browser and type "install Node.js on windows"**
+ 
+ **Step 2. Click on Very first link "Download | Node.js"**
+ - nodejs.org/en/download
+ 
+ **Step 3. Downloads>LTS version>windows installer**
+ - Download has been started 
+ 
+ **Step 4. Open and run this downloaded file to Install Node.js**
+ 
+ **Step 5. Welcome to Node.js Setup Wizard**
+ - Click on Next
+
+ **Step 6. Accept terms in the license agreement**
+ - Click on Next
+
+**Step 7.Choose custom location of Destination Folder**
+- By default it is C:\program Files\nodejs\
+- Click on Next
+
+**Step 8. Click on Next**
+
+**Step 9.Tools for Native Modules**
+- Select the checkbox Automatically install the necessary tools
+- Click on Next
+ 
+**Step 10.Ready to install Node.js**
+- Click on Install
+
+**Step 11.Ready to install Node.js**
+- Completed the Node.js Setup Wizard
+- Click on Finish
+
+**Step 12.Install Additional Tools for Node.js Command prompt widow will open automatically**
+- Press any key
+
+**Step 13. Windows power shell is installing chocolatey package manager for windows**
+
+**Step 14. Everything is installed press Enter to exit**
+
+**Step 15. Open command prompt**
+
+Run the following command to see the version
+
+```sh
+$ node -v
+```
+
+### End of lab
+
+
+
+
 
 # Download & install Visual Studio Code - Lab
 
