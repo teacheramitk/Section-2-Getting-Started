@@ -342,7 +342,7 @@ $ node -v
 
 
 
-# Download & install Visual Studio Code - Lab
+# Download & install Visual Studio Code - Lab (MACOS)
 
 **Step 1. Open Internet Browser and type "install visual studio code" in google search**
 
@@ -360,3 +360,45 @@ $ node -v
 **Step 7. Goto Applications and click on VisualStudioCode icon to access it**
 
 ### End of lab
+
+# Download & install Visual Studio Code - Lab (Windows)
+
+**Step 1. Open Internet Browser and type "install visual studio code" in google search**
+
+**Step 2. Click on the very first link**
+- www.code.visualstudio.com
+
+**Step 3. Click on Download for Windows stable Build**
+- As soon as you click on link it will start downloading vscodeusersetup.exe file
+
+**Step 4. Click on downloaded file**
+
+**Step 5.Accept the License Agreement**
+- Click on Next
+
+**Step 6. Select start menu Folder**
+- Click on Next
+
+**Step 7. Do nothing in select additional tasks**
+- Click on Install
+
+
+**Step 8.Visual studio Code Setup Wizard has been completed**
+- keep selected Launch Visual studio Code
+- Click on Finish
+
+**Step 9.See the interface of Visual studio Code**
+- Installation has been completed
+
+### End of lab
+
+
+
+
+
+
+
+
+
+
+
