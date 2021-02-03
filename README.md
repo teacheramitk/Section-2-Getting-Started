@@ -46,9 +46,11 @@ Click on Create account and continue
 Click on Send SMS
 
 **Step 9. Enter verification code**
+
 Click on Verify Code 
 
 **Step 10. Your identity has been verified successfully**
+
 Click on Continue
 
 **Step 11. Select a Support Plan**
@@ -70,6 +72,7 @@ See Thank You message
 Click on Next
 
 **Step 15. Type the password**
+
 Click on Sign In
 
 Our Free Tier AWS Acoount is Ready.
